@@ -78,7 +78,7 @@ require (
 	github.com/keybase/go-crypto v0.0.0-20180614160407-5114a9a81e1b // indirect
 	github.com/kr/text v0.1.0
 	github.com/lib/pq v0.0.0-20180523175426-90697d60dd84 // indirect
-	github.com/miekg/dns v1.0.14
+	github.com/miekg/dns v1.1.25
 	github.com/mitchellh/cli v1.0.0
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/go-testing-interface v1.0.0
@@ -102,10 +102,10 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
-	golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c
+	golang.org/x/crypto v0.0.0-20190923035154-9ee001bba392
+	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
+	golang.org/x/sys v0.0.0-20190924154521-2837fb4f24fe
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/grpc v1.23.0
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
